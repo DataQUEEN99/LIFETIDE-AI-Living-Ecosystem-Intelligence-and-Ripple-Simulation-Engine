@@ -1,0 +1,2 @@
+# LIFETIDE-AI-Living-Ecosystem-Intelligence-and-Ripple-Simulation-Engine
+LIFETIDE AI is an interactive AI-powered ecosystem intelligence platform that simulates how environmental changes can propagate through interconnected species and biological relationships.  The system combines machine learning, graph intelligence, ecosystem simulation, vulnerability analysis, intervention modelling, and future projection 
